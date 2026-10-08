@@ -21,7 +21,5 @@ Page suivante Je veux savoir ce que je fais.
 - TikTok
 
 > [!AVERTISSEMENT]
-
 > Je veux en savoir plus.
-
 > Je veux savoir ce que je veux savoir. C'est une bonne idée.
