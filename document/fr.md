@@ -1,9 +1,7 @@
 #Je veux savoir
 
 > [!NOTE]
-
 > Je veux savoir ce que je veux savoir.</br>
-
 > | [🇯🇵JA](../README.md) | [🇺🇸EN](/document/en.md) | [🇰🇷KO](/document/ko.md) | [🇨🇳CN](/document/cn.md) | [🇮🇳HI](/document/hi.md) | 🇫🇷FR|
 
 ## Accueil
