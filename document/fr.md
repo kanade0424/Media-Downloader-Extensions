@@ -20,6 +20,6 @@ Page suivante Je veux savoir ce que je fais.
 - Instagram
 - TikTok
 
-> [!AVERTISSEMENT]
+> [!WARNING]
 > Je veux en savoir plus.</br>
 > Je veux savoir ce que je veux savoir. C'est une bonne idée.
