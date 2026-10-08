@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > 다른 언어의 문서는 아래를 클릭해 주세요.</br>
-> | [🇯🇵JA](../README.md) | [🇺🇸EN](./document/en.md) | 🇰🇷KO | [🇨🇳CN](./document/cn.md) | [🇮🇳HI](./document/hi.md) | [🇫🇷FR](./document/fr.md)|
+> | [🇯🇵JA](../README.md) | [🇺🇸EN](/document/en.md) | 🇰🇷KO | [🇨🇳CN](/document/cn.md) | [🇮🇳HI](/document/hi.md) | [🇫🇷FR](/document/fr.md)|
 
 ## 지원 환경
 
