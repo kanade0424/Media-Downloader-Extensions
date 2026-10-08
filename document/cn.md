@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > 我想了解我想了解的内容。</br>
-> | [🇯🇵JA](../README.md) | [🇺🇸EN](./document/en.md) | [🇰🇷KO](./document/ko.md) | 🇨🇳CN | [🇮🇳HI](./document/hi.md) | [🇫🇷FR](./document/fr.md)|
+> | [🇯🇵JA](../README.md) | [🇺🇸EN](/document/en.md) | [🇰🇷KO](/document/ko.md) | 🇨🇳CN | [🇮🇳HI](/document/hi.md) | [🇫🇷FR](/document/fr.md)|
 
 ## 首页
 
