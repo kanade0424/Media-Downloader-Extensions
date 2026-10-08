@@ -1,0 +1,8 @@
+{
+  "manifest_version": "3",
+  "name": "MediaDownloader",
+  "short_name": "MD",
+  "version": "0.1.0",
+  "description": "YouTube/X/Instagram/Tiktokなど主要なSNSの動画をダウンロードします。",
+  "icons": []
+}
