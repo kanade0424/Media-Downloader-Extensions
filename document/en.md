@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > Click below for documentation in other languages.</br>
-> | [🇯🇵JA](../README.md) | 🇺🇸EN | [🇰🇷KO](./document/ko.md) | [🇨🇳CN](./document/cn.md) | [🇮🇳HI](./document/hi.md) | [🇫🇷FR](./document/fr.md)|
+> | [🇯🇵JA](../README.md) | 🇺🇸EN | [🇰🇷KO](/document/ko.md) | [🇨🇳CN](/document/cn.md) | [🇮🇳HI](/document/hi.md) | [🇫🇷FR](/document/fr.md)|
 
 ## Supported Environments
 
